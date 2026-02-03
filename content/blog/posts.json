@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-02-03",
+  "posts": [
+    {
+      "slug": "discovery-sprint",
+      "title": "From Complexity to Clarity: A Practical Discovery Sprint",
+      "date": "2026-02-03",
+      "tags": ["discovery", "workshops", "scope"],
+      "category": "architecture",
+      "summary": "A short, repeatable discovery sprint to turn complex requirements into a clear build plan.",
+      "path": "content/blog/architecture/discovery-sprint.md",
+      "image": "content/blog/assets/discovery-sprint.svg"
+    },
+    {
+      "slug": "maintenance-budgets",
+      "title": "Operational Calm: The Case for Maintenance Budgets",
+      "date": "2026-02-03",
+      "tags": ["maintenance", "reliability", "operations"],
+      "category": "support-and-maintenance",
+      "summary": "Why maintenance budgets keep software stable, predictable, and cheaper over time.",
+      "path": "content/blog/support-and-maintenance/maintenance-budgets.md",
+      "image": "content/blog/assets/maintenance-budgets.svg"
+    }
+  ]
+}
