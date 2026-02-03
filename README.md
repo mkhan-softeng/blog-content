@@ -12,9 +12,9 @@ This repository holds markdown posts.
 Each item in posts should include:
 
 - slug (string)
--     itle (string)
+- title (string)
 - date (YYYY-MM-DD)
--     ags (string[])
+- tags (string[])
 - category (string, folder name)
 - summary (string)
 - path (string, relative to repo root, e.g. content/blog/architecture/my-post.md)
