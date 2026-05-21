@@ -52,7 +52,7 @@ Strong software engineers do not simply "vibe code" and hope for the best. They 
 
 A simple way to think about it is this.
 
-One AI agent may be capable of building a small shed. However, building a high rise tower requires planning, architecture, coordination, governance, security, operational thinking, and experienced software engineers guiding the process.
+One AI agent may be capable of building a small shed. However, building a high rise tower requires planning, architecture, coordination, governance, security, operational thinking, and experienced structural engineers guiding the process.
 
 That is where experienced senior software engineers continue to shine.
 
