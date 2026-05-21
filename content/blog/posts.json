@@ -1,26 +1,16 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-02-03",
+  "updatedAt": "2026-05-21",
   "posts": [
     {
-      "slug": "discovery-sprint",
-      "title": "From Complexity to Clarity: A Practical Discovery Sprint",
-      "date": "2026-02-03",
-      "tags": ["discovery", "workshops", "scope"],
-      "category": "architecture",
-      "summary": "A short, repeatable discovery sprint to turn complex requirements into a clear build plan.",
-      "path": "content/blog/architecture/discovery-sprint.md",
-      "image": "content/blog/assets/discovery-sprint.svg"
-    },
-    {
-      "slug": "maintenance-budgets",
-      "title": "Operational Calm: The Case for Maintenance Budgets",
-      "date": "2026-02-03",
-      "tags": ["maintenance", "reliability", "operations"],
-      "category": "support-and-maintenance",
-      "summary": "Why maintenance budgets keep software stable, predictable, and cheaper over time.",
-      "path": "content/blog/support-and-maintenance/maintenance-budgets.md",
-      "image": "content/blog/assets/maintenance-budgets.svg"
+      "slug": "senior-engineers-in-the-age-of-ai",
+      "title": "Why Senior Software Engineers Become More Valuable in the Age of AI",
+      "date": "2026-05-21",
+      "tags": ["ai", "engineering", "career", "orchestration"],
+      "category": "ai",
+      "summary": "AI coding agents are not replacing experienced engineers. They are amplifying the work of those who know how to direct them.",
+      "path": "content/blog/ai/senior-engineers-in-the-age-of-ai.md",
+      "image": "content/blog/assets/senior-engineers-in-the-age-of-ai.svg"
     }
   ]
 }
