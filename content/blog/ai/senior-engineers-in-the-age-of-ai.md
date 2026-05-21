@@ -81,7 +81,7 @@ The shift that needs to happen is for engineers to not only learn foundational s
 
 Interestingly, I recently spoke with one of the lecturers at the University of Queensland.
 
-UQ, along with many other universities I presume, is already recognising this shift and beginning to adapt aspects of its software engineering programs. Students are now being taught not only core engineering fundamentals, but also how to effectively use AI agents within modern software development workflows.
+UQ, along with many other universities I presume, is already recognising this shift and beginning to adapt aspects of its software engineering programs. Students are now being taught not only core engineering fundamentals, but also how to effectively use AI models within modern software development workflows — and increasingly, how to work with the agents built on top of them.
 
 In other words, how to orchestrate them effectively.
 
