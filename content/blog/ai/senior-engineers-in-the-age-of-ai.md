@@ -62,12 +62,12 @@ In many ways, this shift is not removing engineering roles. It is transforming t
 
 Higher level engineering work becomes even more valuable, including:
 
-- System design.
-- Infrastructure and security.
-- Workflow integration.
-- Performance and cost optimisation.
-- Governance.
-- Effectively coordinating between humans and AI agents.
+- **System design**: making the architectural decisions around scalability, reliability, and end to end coherence that AI agents cannot reason about across an entire system.
+- **Infrastructure and security**: designing for failure, threat modelling, and operating under regulatory constraints.
+- **Workflow integration**: making AI agents fit into real teams, toolchains, and release cycles.
+- **Performance and cost optimisation**: judging when a fast solution is also an expensive one, and when to pay for which.
+- **Governance**: knowing what should not be automated, and ensuring decisions remain traceable and accountable.
+- **Effectively coordinating between humans and AI agents**: knowing when to override the agent, when to trust it, and how to scaffold juniors learning to do the same.
 
 ## Where the impact will be felt first
 
