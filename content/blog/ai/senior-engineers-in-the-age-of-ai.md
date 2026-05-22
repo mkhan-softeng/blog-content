@@ -75,9 +75,9 @@ The group most likely to feel the impact first includes junior developers enteri
 
 That is where much of the concern comes from.
 
-Traditionally, junior developers learned through smaller implementation tasks and repetitive coding work. These are precisely the areas where AI is now becoming extremely effective.
+Traditionally, junior developers learned engineering through smaller implementation tasks and repetitive coding work. These are precisely the areas where AI is now becoming extremely effective, which means juniors risk losing the path most of us walked to get good.
 
-The shift that needs to happen is for software engineers to not only learn foundational engineering skills, but also how to effectively work alongside AI agents under the guidance of experienced engineers.
+The shift that needs to happen is not simply that junior software engineers learn how to use AI. Everyone says that, and it is already obvious. The real shift is that juniors learn how to use AI the way experienced engineers do, with judgement, guardrails, and the orchestration patterns that come from years of building, breaking, and maintaining real systems. Without that mentorship, AI accelerates juniors into fragile habits. With it, they accelerate into the next generation of orchestrators.
 
 ## Education is already adapting
 
